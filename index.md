@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Job Positions
 
-You can use the [editor on GitHub](https://github.com/KristinaEngland/accessibility-skills-hiring-toolkit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Published Roles
+- [Content Author/Producer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/content-author-producer)
+- [Front-End Developer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/front-end-developer)
+- [Instructional Designer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/instructional-designer)
+- [Multimedia Producer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/multimedia-producer)
+- [Product Owner/Manager](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/product-owner-manager)
+- [Project Manager](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/project-manager)
+- [Quality Assurance Tester](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/quality-assurance-tester)
+- [Sourcing/Procurement Officer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/sourcing-procurement-officer)
+- [UX/Interaction Designer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/ux-interaction-designer)
+- [UX/Visual Designer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/ux-visual-designer)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Role Skills in Development
+- Content Editor/Publisher
+- Information Architect
+- Legal Counsel
+- Product Support
+- Social Media Editor/Publisher
+- UX Researcher
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KristinaEngland/accessibility-skills-hiring-toolkit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Creative Commons License
+Accessibility Skills Hiring Toolkit by Teach Access is licensed under a Creative Commons Attribution 4.0 International License. Interview questions adapted from Scott O'Hara's [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/) open source resource.
