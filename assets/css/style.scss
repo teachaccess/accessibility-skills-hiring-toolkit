@@ -4,4 +4,5 @@
 @import "{{ site.theme }}";
 #project_tagline {display: none;}
 #header_wrap {background: #174d71;}
-a {text-decoration: underline}
+a:link {text-decoration: underline;}
+a:hover {color: red;text-decoration: underline;}
