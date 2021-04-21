@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-#project_title {color: white;}
+#project_title a:link {color: white;}
 #project_tagline {display: none;}
 #header_wrap {background: #174d71;}
 a {text-decoration: underline}
