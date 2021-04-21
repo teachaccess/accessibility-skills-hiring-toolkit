@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+.site-title::before {content: url("/images/teach_access_logo.svg");display: inline-block;position: relative;}
 #project_title a:link {color: white;}
 #project_tagline {display: none;}
 #header_wrap {background: #174d71;}
