@@ -2,8 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-
-.header {
-  text-align: center;
-  background-color: #004451;
-}
+#header_wrap {display: none;}
