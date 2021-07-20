@@ -11,7 +11,7 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 - [Product Owner/Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/product-owner-manager)
 - [Project Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/project-manager)
 - [Quality Assurance Tester](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/quality-assurance-tester)
-- [Sourcing/Procurement Officer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/sourcing-procurement-officer)
+- [Sourcing/Procurement Officer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/sourcing-procurement-officer)
 - [UX/Interaction Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-interaction-designer)
 - [UX/Visual Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-visual-designer)
 
