@@ -4,16 +4,16 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 ## Job Positions
 
 ### Published Roles
-- [Content Author/Producer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/content-author-producer)
-- [Front-End Developer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/front-end-developer)
-- [Instructional Designer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/instructional-designer)
-- [Multimedia Producer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/multimedia-producer)
-- [Product Owner/Manager](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/product-owner-manager)
-- [Project Manager](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/project-manager)
-- [Quality Assurance Tester](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/quality-assurance-tester)
+- [Content Author/Producer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/content-author-producer)
+- [Front-End Developer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/front-end-developer)
+- [Instructional Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/instructional-designer)
+- [Multimedia Producer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/multimedia-producer)
+- [Product Owner/Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/product-owner-manager)
+- [Project Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/project-manager)
+- [Quality Assurance Tester](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/quality-assurance-tester)
 - [Sourcing/Procurement Officer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/sourcing-procurement-officer)
-- [UX/Interaction Designer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/ux-interaction-designer)
-- [UX/Visual Designer](https://kristinaengland.github.io/accessibility-skills-hiring-toolkit/roles/ux-visual-designer)
+- [UX/Interaction Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-interaction-designer)
+- [UX/Visual Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-visual-designer)
 
 ### Role Skills in Development
 - Content Editor/Publisher
