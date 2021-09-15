@@ -27,38 +27,38 @@ Preferred: Applicants with the following qualifications will be preferred:
 ## Interview Questions
 
 ### Screening
-1. Who benefits from accessibility?
-2. How would you define inclusive and/or universal design? Can you provide an example? (Does not need to be web related)
-3. What resources would you recommend to someone who wants to keep informed of the latest updates on accessibility and inclusive design?
-4. How do you see accessibility fitting into your role in the organization?
-5. How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, etc.). Give an overview of the process you go through for (insert example).
-6. What is alternative text and why is it important?
-7. Why are headings important? What’s the proper way to implement headings?
+- Knowledge of digital accessibility and disability inclusion
+  - Who benefits from accessibility?
+  - How would you define inclusive and/or universal design? Can you provide an example? (Does not need to be web related)
+  - What resources would you recommend to someone who wants to keep informed of the latest updates on accessibility and inclusive design?
+- Experience creating accessible content using plain language and clear and structured content, and providing alternatives as needed
+  - How do you see accessibility fitting into your role in the organization?
+  - How do you incorporate accessibility into your day to day activities? (Email, document creation, social media, when presenting content, etc.). Give an overview of the process you go through for (insert example).
+
 
 ### Interview Committee
-1. Who benefits from accessibility?
-2. How would you define inclusive and/or universal design? Can you provide an example? (Does not need to be web related)
-3. What resources would you recommend to someone who wants to keep informed of the latest updates on accessibility and inclusive design?
-4. Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
-5. Describe the difference between Section 508 and the Web Content Accessibility Guidelines.
-6. What is the Plain Writing Act of 2010?
-7. What is WCAG?
-8. What are the differences between A, AA, and AAA compliance?
-9. Why is color contrast important?
-10. What are the risks involved in using animations or auto-playing videos?
-11. How do you see accessibility fitting into your role in the organization?
-12. How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, etc.). Give an overview of the process you go through for (insert example).
-13. What is alternative text and why is it important?
-14. Why are headings important? What’s the proper way to implement headings?
-15. When selecting videos to share on a site or social media platform, what are some accessibility questions you would ask before sharing the video?
-16. How would you provide alternative text for a complex graph or infographic?
-17. How can using plain language benefit the accessibility of a project?
-18. How does diversity and inclusion factor into your work as a content creator?
-19. What steps do you typically take to ensure your content is inclusive? Please provide some examples of actions you’ve taken.
-20. What are some examples of inclusive/noninclusive language?
-21. Describe your experience applying Plain Language Guidelines to content resources.
-22. Describe your methods for producing accessible alternatives, such as captions and image descriptions, when creating content.
-23. Describe your experience creating content authoring resources, such as content templates and style guides, and share examples of how you incorporated accessibility into the resources.
+#### Required
+- Knowledge of the Plain Writing Act of 2010 and other regulations related to content accessibility
+  - What is the Plain Writing Act of 2010?
+- Knowledge of WCAG 2.1 AA requirements related to content authoring and production
+  - What is WCAG? What are the differences between A, AA, and AAA compliance?
+  - Why is color contrast important?
+  - What are the risks involved in using animations or auto-playing videos?
+- Experience creating accessible content using plain language and clear and structured content, and providing alternatives as needed
+  - What is alt text and why is it important? Why do complex graphs need visible image descriptions instead of alt text?
+  - When selecting videos to share on a site or social media platform, what are some accessibility questions you would ask before sharing the video?
+  - Why are headings important? What’s the proper way to implement headings?
+  - How can using plain language benefit the accessibility of a project?
+- Experience creating content that reflects diversity and inclusion
+  - How does diversity and inclusion factor into your work as a content creator?
+  - What steps do you typically take to ensure your content is inclusive? Please provide some examples of actions you’ve taken.
+  - What are some examples of inclusive/non-inclusive language?
+
+#### Preferred
+- Describe your experience creating content that follows Plain Language Guidelines
+- Describe your experience incorporating production of alternatives (e.g., captions, image descriptions) into content authoring workflows
+- Describe your experience incorporating accessibility into content authoring resource, such as style guides
+
 
 ## Translations
 A list of translations will be provided here when received by language. Please submit through GitHub.
