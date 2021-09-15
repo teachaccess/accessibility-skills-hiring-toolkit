@@ -51,9 +51,7 @@ Applicants with the following qualifications will be preferred:
   - Describe your experience with applying user-centered design methods to product development.
 - Experience advocating for accessibility in digital products (e.g., with leadership, development teams)
   - What is the biggest challenge, cross functionally, to getting accessibility features launched? In your own experience, how have you overcome this challenge?
-  - Describe a situation where a coworker may have been resistant to accessibility or inclusive design best practices.
-   - How were you able to work with them to mitigate such issues?
-   - What sort of strategies do you use in situations like these to help educate coworkers?
+  - Describe a situation where a coworker may have been resistant to accessibility or inclusive design best practices. How were you able to work with them to mitigate such issues? What sort of strategies do you use in situations like these to help educate coworkers?
 
 #### Preferred
 - Experience engaging with people with disabilities in research and design activities
