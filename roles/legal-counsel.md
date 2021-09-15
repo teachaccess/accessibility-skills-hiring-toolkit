@@ -13,7 +13,8 @@
 
 
 ### Qualifications
-Required: Applicants for the Legal Counsel role are required to have these qualifications:
+#### Required
+Applicants for the Legal Counsel role are required to have these qualifications:
 - Knowledge of digital accessibility and disability inclusion
 - Knowledge of laws and regulations related to digital accessibility (e.g., Section 508, ADA, Equality Act, Web Accessibility Directive)
 - Knowledge of digital accessibility standards and guidelines (e.g., Web Content Accessibility Guidelines, ICT Standards and Guidelines, EN 301 549)
@@ -21,7 +22,8 @@ Required: Applicants for the Legal Counsel role are required to have these quali
 - Experience supporting colleagues and teams in meeting their compliance responsibilities
 
 
-Preferred: Applicants with the following qualifications will be preferred:
+#### Preferred
+Applicants with the following qualifications will be preferred:
 - Experience incorporating compliance with digital accessibility regulations and standards into contracts with third parties (e.g., technology vendors, professional services)
 - Experience responding to complaints related to inaccessible digital resources
 
