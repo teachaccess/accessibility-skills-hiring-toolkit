@@ -60,5 +60,12 @@ Applicants with the following qualifications will be preferred:
   - What steps do you typically take to ensure your media is inclusive? Please provide some examples of actions you’ve taken.
   - What are some examples of inclusive/non-inclusive media elements?
 
+#### Preferred
+- Describe your experience with self-described video production best practices
+- Describe your experience adapting scripts for media transcripts
+- Describe your experience writing and producing audio descriptions
+- Describe your experience incorporating production of alternatives (e.g., captions, audio description) into production workflows
+
+
 ## Translations
 A list of translations will be provided here when received by language. Please submit through GitHub.
