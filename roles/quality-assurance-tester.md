@@ -9,7 +9,8 @@
   - Record results of accessibility tests
 
 ### Qualifications
-Required: Applicants for the Quality Assurance Tester role are required to have these qualifications:
+#### Required
+Applicants for the Quality Assurance Tester role are required to have these qualifications:
 - Knowledge of digital accessibility and disability inclusion
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
 - Knowledge of WCAG 2.1 AA requirements
@@ -17,7 +18,8 @@ Required: Applicants for the Quality Assurance Tester role are required to have 
 - Experience using accessibility evaluation tools and frameworks (e.g., WAVE, Developer Tools, Accessibility Inspector)
 - Experience using assistive technologies (e.g., VoiceOver, JAWS, Dragon Naturally Speaking, ZoomText)
 
-Preferred: Applicants with the following qualifications will be preferred:
+#### Preferred
+Applicants with the following qualifications will be preferred:
 - Professional training in using assistive technologies
 - Experience conducting usability tests that include participants with disabilities
 
