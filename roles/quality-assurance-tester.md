@@ -43,6 +43,8 @@ Preferred: Applicants with the following qualifications will be preferred:
 - Knowledge of WCAG 2.1 AA requirements
   - What is WCAG? What are the differences between A, AA, and AAA compliance?
   - What are the Authoring Tools Accessibility Guidelines and what are some of the benefits of using these guidelines when creating an authoring tool?
+- Knowledge of web technologies (e.g., HTML, CSS, JavaScript)
+  - Describe appropriate instances to use a link, versus a generic button, versus a submit button.
 - Experience using accessibility evaluation tools and frameworks (e.g., WAVE, Developer Tools, Accessibility Inspector)
   - How do you see accessibility fitting into your role in the organization?
   - How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, etc.). Give an overview of the process you go through for (insert example).
