@@ -63,14 +63,14 @@ Applicants with the following qualifications will be preferred:
      - (If mentions WCAG): What are the differences between A, AA, and AAA compliance?
 
 #### Preferred
-Experience translating accessibility & equity-related insights into actionable change.
-- Walk us through a project where you improved the accessibility of a product. What specifically did you change? Who did you partner with most closely to build and launch it (or not launch it, if applicable).
-- What is the biggest challenge you face, as a researcher, when developing accessible products?
-Experience with a range of multi-modal interaction methods (speech, touch, motion, etc.)
-- What educational resources would you recommend to a UX researcher who is working across various modes of interaction, such as speech, touch, and motion input?
-- Imagine a PM who is developing a training course product asks you, “what do  we need to keep in mind when adding instructor videos to the product?” How would you respond?
-  - To drill down farther, how would someone who is deaf-blind interact with a video?
-- Describe two types of assistive technology and how you have used them in your work.
+- Experience translating accessibility & equity-related insights into actionable change.
+  - Walk us through a project where you improved the accessibility of a product. What specifically did you change? Who did you partner with most closely to build and launch it (or not launch it, if applicable).
+  - What is the biggest challenge you face, as a researcher, when developing accessible products?
+- Experience with a range of multi-modal interaction methods (speech, touch, motion, etc.)
+  - What educational resources would you recommend to a UX researcher who is working across various modes of interaction, such as speech, touch, and motion input?
+  - Imagine a PM who is developing a training course product asks you, “what do  we need to keep in mind when adding instructor videos to the product?” How would you respond?
+     - To drill down farther, how would someone who is deaf-blind interact with a video?
+ - Describe two types of assistive technology and how you have used them in your work.
 
 ## Translations
 A list of translations will be provided here when received by language. Please submit through GitHub.
