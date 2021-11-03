@@ -46,21 +46,21 @@ Applicants with the following qualifications will be preferred:
 
 #### Required
 - Strong understanding of Disability history and intersectionality.
- - Design a study for a video conferencing captioning tool.
+  - Design a study for a video conferencing captioning tool.
      - Who would you recruit? How many people would you recruit?
      - Why not another method? (e.g., usability study, heuristic evaluation, etc.)
      - How would you account for differences in your study plan or reporting?
      - How would you know when the project was done?
- - Suppose you collect survey data with Likert-scale satisfaction (strongly agree to strongly disagree) measures on how inclusive a company culture is. You find that 95% of employees are satisfied with how inclusive the company culture is. What data reporting techniques would you employ to highlight the 5% of individuals who are dissatisfied or strongly dissatisfied? 
+  - Suppose you collect survey data with Likert-scale satisfaction (strongly agree to strongly disagree) measures on how inclusive a company culture is. You find that 95% of employees are satisfied with how inclusive the company culture is. What data reporting techniques would you employ to highlight the 5% of individuals who are dissatisfied or strongly dissatisfied? 
 - Strong understanding of equity, inclusion, and collaborative/co-design approaches to product design.
- - Who benefits from accessibility? 
- - Explain a time when you had to persuade stakeholders to focus on or prioritize accessibility. How did you make your case?
- - Could you share an instance when you initiated a research question or co-design project that was not brought by a stakeholder?
+  - Who benefits from accessibility? 
+  - Explain a time when you had to persuade stakeholders to focus on or prioritize accessibility. How did you make your case?
+  - Could you share an instance when you initiated a research question or co-design project that was not brought by a stakeholder?
 - Knowledge of digital accessibility standards, guidelines, and regulations (e.g., Web Content Accessibility Guidelines, VPAT, EN 301 549, ETSI TR 102 612, Human Factors data sources)
- - Imagine you are working on a security app that allows people to view their camera recordings. Upon launching the app, a carousel is presented that auto plays 30 second previews of the most recent recordings. What steps would you take to assess the usability of this new feature?
- - Suppose your product team needs to run a usability study within the next 2 weeks and recruiting people with disabilities is taking a long time. What are some adjustments you could make to ensure that you are still representing the perspectives of people with disabilities?
-   - Why not (insert another sampling method or accessibility standard)?
-   - (If mentions WCAG): What are the differences between A, AA, and AAA compliance?
+  - Imagine you are working on a security app that allows people to view their camera recordings. Upon launching the app, a carousel is presented that auto plays 30 second previews of the most recent recordings. What steps would you take to assess the usability of this new feature?
+  - Suppose your product team needs to run a usability study within the next 2 weeks and recruiting people with disabilities is taking a long time. What are some adjustments you could make to ensure that you are still representing the perspectives of people with disabilities?
+     - Why not (insert another sampling method or accessibility standard)?
+     - (If mentions WCAG): What are the differences between A, AA, and AAA compliance?
 
 #### Preferred
 Experience translating accessibility & equity-related insights into actionable change.
