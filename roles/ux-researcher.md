@@ -32,10 +32,10 @@ Applicants with the following qualifications will be preferred:
   - What are some important considerations when designing equitable, inclusive, and accessible studies?
 - Strong understanding of Disability history and intersectionality. 
   - What can contribute to an equitable and inclusive experience? Can you provide an example? (Does not need to be web related) 
-  - Follow-up: What is the difference between equity and inclusion?
+     - Follow-up: What is the difference between equity and inclusion?
   - Could you share an instance when you considered intersectionality in your work? How did you approach it?
-  - Follow-up: How did you ensure that the insights appropriately represented each experience? 
-  - Follow-up: Are there any methodological or process improvements you would have liked to have made?
+     - Follow-up: How did you ensure that the insights appropriately represented each experience? 
+     - Follow-up: Are there any methodological or process improvements you would have liked to have made?
 - Strong understanding of equity and inclusion in product design.
   - What are some common questions you receive from colleagues about equitable and/or inclusive research? What job roles do you typically collaborate with?
   - How do you see accessibility fitting into your role in your current organization?
