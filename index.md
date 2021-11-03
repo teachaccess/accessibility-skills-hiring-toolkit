@@ -14,6 +14,7 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 - [Quality Assurance Tester](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/quality-assurance-tester)
 - [Sourcing/Procurement Officer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/sourcing-procurement-officer)
 - [UX/Interaction Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-interaction-designer)
+- [UX Researcher](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-researcher)
 - [UX/Visual Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-visual-designer)
 
 ### Role Skills in Development
@@ -21,7 +22,6 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 - Information Architect
 - Product Support
 - Social Media Editor/Publisher
-- UX Researcher
 
 ## Creative Commons License
 Accessibility Skills Hiring Toolkit by Teach Access is licensed under a Creative Commons Attribution 4.0 International License. Interview questions adapted from Scott O'Hara's [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/) open source resource.
