@@ -50,6 +50,7 @@ Applicants for the UX/Interaction Designer role are required to have these quali
 - Experience designing inclusive flows that take into account keyboard interaction, non-visual user interaction, use of color and contrast, and multimedia interactions
   - Walk us through a project where you improved the accessibility of a product. What specifically did you change? Who did you partner with most closely to build and launch it (or not launch it, if applicable).
   - What are some user experience (UX) concerns to be aware of when using iconography in user interfaces (UI)?
+  - Explain the difference between operable and non-operable content. What is the expected navigation experience for operable content? What is the expected navigation experience for non-operable content?
   - How can carousels be problematic for users with disabilities?
   - How would someone with a physical disability interact with a product or website? What are key design aspects you would need to ensure are available to that user?
   - What are concerns that someone with a vestibular disorder would have interacting with a product or website? How would you address those interaction concerns?
