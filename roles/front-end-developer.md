@@ -54,6 +54,7 @@ example? (Does not need to be web related)
   - Describe how responsive design relates to and affects accessibility.
 - Experience developing digital products that comply with accessibility standards
   - How can carousels be problematic for users with disabilities?
+  - Explain the difference between operable and non-operable content. What is the expected navigation experience for operable content? What is the expected navigation experience for non-operable content?
   - What are landmark regions and how can they be useful? Why do you need to implement a visible Skip to Main Content link and not just the landmark regions?
   - What is an accessible name? How does the implementation of an accessible name matter for speech recognition? 
 
