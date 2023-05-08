@@ -19,6 +19,7 @@ Applicants for the UX/Visual Designer role are required to have these qualificat
 - Experience creating visual designs that meet accessibility guidelines, including use of color and color contrast requirements
 - Experience creating layouts that adapt to changes in text size and format, and different viewing modes, such as high-contrast mode
 - Experience designing layouts that are accessible and responsive
+- Experience conducting accessible and inclusive user research and user testing for visual designs and in the development of products and service
 
 #### Preferred
 Applicants with the following qualifications will be preferred:
@@ -33,9 +34,10 @@ Applicants with the following qualifications will be preferred:
   - What resources would you recommend to someone who wants to keep informed of the latest updates on accessibility and inclusive design?
 - Experience creating visual designs that meet accessibility guidelines, including use of color and color contrast requirements
   - How do you see accessibility fitting into your role in the organization?
-  - How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, etc.). Give an overview of the process you go through for (insert example).
+  - How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, in the UX process when researching, designing, or testing, etc.). Give an overview of the process you go through for (insert example).
   - What educational resources would you recommend to a developer or designer that wants to improve their accessibility skills?
   - Explain the importance of color contrast in designing for inclusion.
+  - Explain the importance of providing alternatives for color coded content in designing for inclusion.
 
 ### Interview Committee Questions
 
@@ -48,6 +50,9 @@ Applicants with the following qualifications will be preferred:
   - What are the Authoring Tools Accessibility Guidelines and what are some of the benefits of using these guidelines when creating an authoring tool?
 - Experience designing for platform technologies (e.g., HTML, CSS, JavaScript, iOS, Android)
   - Describe appropriate instances to use a link, vs a generic button, vs a submit button.
+  - Describe how to properly use heading levels to convey text hierarchy. 
+  - Describe when to use alt text for images or when to tag an image as decorative (considering the use of graphics).
+  - Knowing semantic HTML, explain the use of roles given to design components.
 - Experience creating layouts that adapt to changes in text size and format, and different viewing modes, such as high-contrast mode
   - What are some ways users can adapt device settings that affect the visual display of websites and apps?
   - What is your approach to designing pages and screens, given those adaptations?
@@ -55,10 +60,18 @@ Applicants with the following qualifications will be preferred:
   - What are some user experience (UX) concerns to be aware of when using iconography in user interfaces (UI)?
   - Walk us through a project where you improved the accessibility of a product. What specifically did you change? Who did you partner with most closely to build and launch it (or not launch it, if applicable).
   - How can carousels be problematic for users with disabilities?
-  - How are auto-playing videos and animations problematic for users with disabilities?
+  - Why is significant flashing and motion content dangerous for users with disabilities?
+  - How are auto-playing videos and animations dangerous for users with disabilities?
+  - What should you provide with video and/or audio content?
+  - Why is it improper to use images of text?
   - Why does color contrast matter?
   - Why do focus indicators matter both when tabbing and on hover?
+  - Why does a logical focus order matter to screen reader navigation?
   - Have you worked on accessibility for a design system (if not, have you come across an example?). How was accessibility integrated, and was it done well?
+- Experience conducting accessible and inclusive user research and user testing for visual designs and in the development of products and services
+  - How might you implement or keep accessibility in mind when conducting user research?
+  - How might you implement or keep accessibility in mind when testing a prototype?
+
 
 #### Preferred
 - Experience articulating and incorporating accessibility requirements into visual design documents and specifications
