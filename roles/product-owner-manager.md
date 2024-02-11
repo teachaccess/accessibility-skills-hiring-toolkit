@@ -1,6 +1,3 @@
----
-lang: en
----
 # Product Owner/Manager
 
 ## Position Description

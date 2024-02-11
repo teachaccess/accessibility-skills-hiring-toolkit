@@ -1,6 +1,3 @@
----
-lang: en
----
 # Quality Assurance Tester
 
 ## Position Description

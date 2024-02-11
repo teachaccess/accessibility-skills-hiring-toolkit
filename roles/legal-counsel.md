@@ -1,6 +1,3 @@
----
-lang: en
----
 # Legal Counsel
 
 ## Position Description

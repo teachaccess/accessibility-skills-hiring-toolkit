@@ -1,6 +1,3 @@
----
-lang: en
----
 # Instructional Designer
 
 ## Position Description

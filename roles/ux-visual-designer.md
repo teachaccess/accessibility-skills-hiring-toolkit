@@ -1,6 +1,3 @@
----
-lang: en
----
 # UX/Visual Designer
 
 ## Position Description

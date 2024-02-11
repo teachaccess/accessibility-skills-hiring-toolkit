@@ -1,6 +1,3 @@
----
-lang: en
----
 # Multimedia Producer
 
 ## Position Description

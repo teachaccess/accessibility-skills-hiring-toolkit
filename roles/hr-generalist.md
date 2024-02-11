@@ -1,6 +1,3 @@
----
-lang: en
----
 # HR Generalist
 
 ## Position Description

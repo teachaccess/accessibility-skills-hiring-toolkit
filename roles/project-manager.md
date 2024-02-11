@@ -1,6 +1,3 @@
----
-lang: en
----
 # Project Manager
 
 ## Position Description

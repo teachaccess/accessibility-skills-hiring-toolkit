@@ -1,9 +1,3 @@
 theme: jekyll-theme-slate
 title: Teach Access Accessibility Skills Hiring Toolkit
 google_analytics: G-8K0EY6Y3TJ
-plugins:
-  - jekyll-polyglot
-languages: ["en", "es"]
-default_lang: "en"
-exclude_from_localization: ["assets", "images", "_includes", "index.md"]
-parallel_localization: true
