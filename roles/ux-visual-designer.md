@@ -3,6 +3,7 @@
 ## Position Description
 
 ### Responsibilities
+
 - The UX/Visual Designer creates visual designs and communicates visual design requirements.
 - The UX/Visual Designer ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
 - Create visual designs with accessibility in mind
@@ -10,8 +11,11 @@
 - Partner with colleagues and team members to prioritize accessibility in visual designs
 
 ### Qualifications
+
 #### Required
+
 Applicants for the UX/Visual Designer role are required to have these qualifications:
+
 - Knowledge of digital accessibility and disability inclusion
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
 - Knowledge of WCAG 2.1 AA requirements
@@ -22,12 +26,15 @@ Applicants for the UX/Visual Designer role are required to have these qualificat
 - Experience conducting accessible and inclusive user research and user testing for visual designs and in the development of products and service
 
 #### Preferred
+
 Applicants with the following qualifications will be preferred:
+
 - Experience articulating and incorporating accessibility requirements into visual design documents and specifications
 
 ## Interview Questions
 
 ### Screening Questions
+
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
   - How would you define inclusive and/or universal design? Can you provide an example? (Does not need to be web related)
@@ -42,6 +49,7 @@ Applicants with the following qualifications will be preferred:
 ### Interview Committee Questions
 
 #### Required
+
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
   - Describe the difference between Section 508 and the Web Content Accessibility Guidelines.
@@ -50,7 +58,7 @@ Applicants with the following qualifications will be preferred:
   - What are the Authoring Tools Accessibility Guidelines and what are some of the benefits of using these guidelines when creating an authoring tool?
 - Experience designing for platform technologies (e.g., HTML, CSS, JavaScript, iOS, Android)
   - Describe appropriate instances to use a link, vs a generic button, vs a submit button.
-  - Describe how to properly use heading levels to convey text hierarchy. 
+  - Describe how to properly use heading levels to convey text hierarchy.
   - Describe when to use alt text for images or when to tag an image as decorative (considering the use of graphics).
   - Knowing semantic HTML, explain the use of roles given to design components.
 - Experience creating layouts that adapt to changes in text size and format, and different viewing modes, such as high-contrast mode
@@ -72,12 +80,9 @@ Applicants with the following qualifications will be preferred:
   - How might you implement or keep accessibility in mind when conducting user research?
   - How might you implement or keep accessibility in mind when testing a prototype?
 
-
 #### Preferred
+
 - Experience articulating and incorporating accessibility requirements into visual design documents and specifications
   - When should you use or recommend ARIA roles or attributes to solve an accessibility issue?
 - Preferred question: Experience using assistive technologies (e.g., VoiceOver, JAWS, Dragon Naturally Speaking, ZoomText, mobile solutions, etc).
   - Describe two types of assistive technology and how you have tested with them.
-
-## Translations
-A list of translations will be provided here when received by language. Please submit through GitHub.
