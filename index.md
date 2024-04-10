@@ -5,6 +5,7 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 
 ### Published Roles
 - [Content Author/Producer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/content-author-producer)
+- [Content Editor/Publisher](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/content-editor-publisher)
 - [Front-End Developer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/front-end-developer)
 - [HR Generalist](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/hr-generalist) 
 - [Instructional Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/instructional-designer)
@@ -19,7 +20,6 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 - [UX/Visual Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-visual-designer)
 
 ### Role Skills in Development
-- Content Editor/Publisher
 - Information Architect
 - Product Support
 - Social Media Editor/Publisher
