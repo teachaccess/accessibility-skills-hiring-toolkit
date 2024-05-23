@@ -2,7 +2,7 @@
 
 ## Summary
 
-We are looking for a skilled and creative Social Media Editor/Publisher to join our team and oversee our social media presence. In this role, you will be responsible for developing engaging content, managing social media accounts, and implementing strategies to increase brand awareness and engagement. You will work closely with our marketing team to plan and execute social media campaigns, analyze performance metrics, and optimize content for various social media platforms.
+We are looking for a skilled and creative Social Media Manager to join our team and oversee our social media presence. In this role, you will be responsible for developing engaging content, managing social media accounts, and implementing strategies to increase brand awareness and engagement. You will work closely with our marketing team to plan and execute social media campaigns, analyze performance metrics, and optimize content for various social media platforms.
 
 Successful candidates will have a strong understanding of social media trends and best practices, excellent writing and editing skills, and a passion for storytelling. Prior experience in social media management or digital marketing is preferred. This role offers the opportunity to make a significant impact on our brand's online presence and engagement with our audience.
 

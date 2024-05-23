@@ -6,6 +6,7 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 ### Published Roles
 - [Content Author/Producer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/content-author-producer)
 - [Content Editor/Publisher](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/content-editor-publisher)
+- [Customer Support Specialist](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/customer-support-specialist)
 - [Front-End Developer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/front-end-developer)
 - [HR Generalist](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/hr-generalist) 
 - [Instructional Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/instructional-designer)
@@ -14,6 +15,7 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 - [Product Owner/Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/product-owner-manager)
 - [Project Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/project-manager)
 - [Quality Assurance Tester](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/quality-assurance-tester)
+- [Sales Executive](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/sales-executive)
 - [Social Media Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/social-media-manager)
 - [Sourcing/Procurement Officer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/sourcing-procurement-officer)
 - [UX/Interaction Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-interaction-designer)
@@ -21,9 +23,7 @@ Teach Access provides the Accessibility Skills Hiring Toolkit to help organizati
 - [UX/Visual Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-visual-designer)
 
 ### Role Skills in Development
-- Information Architect
-- Product Support
-- Social Media Editor/Publisher
+- Customer Support (help desk)
 
 ### Submit a Role
 We welcome contributions! [Fill out this form](https://forms.gle/dEafQn2x1F1641Jm9) to submit a role to the Accessibility Skills Hiring Toolkit.
