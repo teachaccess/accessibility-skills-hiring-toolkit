@@ -9,6 +9,7 @@ To democratize accessibility across all departments, we currently do not provide
 - [Content Author/Producer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/content-author-producer)
 - [Content Editor/Publisher](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/content-editor-publisher)
 - [Customer Support Specialist](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/customer-support-specialist)
+- [Diversity and Equity Specialist](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/diversity-and-equity-specialist)
 - [Front-End Developer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/front-end-developer)
 - [HR Generalist](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/hr-generalist) 
 - [Instructional Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/instructional-designer)
