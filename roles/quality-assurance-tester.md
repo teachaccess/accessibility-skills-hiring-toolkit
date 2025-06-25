@@ -3,14 +3,18 @@
 ## Position Description
 
 ### Responsibilities
+
 - The Quality Assurance Tester evaluates digital products to ensure compliance with quality standards and requirements.
 - The Quality Assurance Tester ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
   - Perform accessibility tests using evaluation tools, manual testing, and assistive technologies
   - Record results of accessibility tests
 
 ### Qualifications
+
 #### Required
+
 Applicants for the Quality Assurance Tester role are required to have these qualifications:
+
 - Knowledge of digital accessibility and disability inclusion
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
 - Knowledge of WCAG 2.1 AA requirements
@@ -19,13 +23,16 @@ Applicants for the Quality Assurance Tester role are required to have these qual
 - Experience using assistive technologies (e.g., VoiceOver, JAWS, Dragon Naturally Speaking, ZoomText)
 
 #### Preferred
+
 Applicants with the following qualifications will be preferred:
+
 - Professional training in using assistive technologies
 - Experience conducting usability tests that include participants with disabilities
 
 ## Interview Questions
 
 ### Screening
+
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
   - How would you define inclusive and/or universal design? Can you provide an example? (Does not need to be web related)
@@ -39,6 +46,7 @@ Applicants with the following qualifications will be preferred:
 ### Interview Committee
 
 #### Required
+
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
   - Describe the difference between Section 508 and the Web Content Accessibility Guidelines.
@@ -56,13 +64,15 @@ Applicants with the following qualifications will be preferred:
 - Experience using assistive technologies (e.g., VoiceOver, JAWS, Dragon Naturally Speaking, ZoomText)
   - Explain your experience with assistive technology.
   - How do you test with a screen reader? Give a brief overview of some of the keyboard commands you use.
-  - What’s your experience with mobile testing (e.g., Screen Reader, Bluetooth keyboard, etc.)? 
+  - What's your experience with mobile testing (e.g., Screen Reader, Bluetooth keyboard, etc.)?
 
 #### Preferred
+
 - Professional training in using assistive technologies
-  - Provide an overview of the assistive technologies you've used and how you've used them for testing? 
+  - Provide an overview of the assistive technologies you've used and how you've used them for testing?
 - Experience conducting usability tests that include participants with disabilities
   - How have you engaged users with disabilities in providing feedback throughout the development process?
 
 ## Translations
+
 A list of translations will be provided here when received by language. Please submit through GitHub.

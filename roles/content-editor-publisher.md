@@ -56,11 +56,11 @@ Preferred: Applications with the following qualifications will be preferred:
 - Experience leading editorial calendar and strategies for accessible content using plain language and clear and structured content, and providing alternatives and coaching to writers as needed
   - How would you explain alt text to your content authors and the difference and situations where visible image descriptions are needed instead?
   - When selecting videos to share on a site or social media platform, what are some accessibility questions you would ask before sharing the video?
-  - Why are headings important? What’s the proper way to implement headings?
+  - Why are headings important? What's the proper way to implement headings?
   - How can using plain language benefit the accessibility of a project?
 - Experience leading the creation of content that reflects diversity and inclusion
   - How does diversity and inclusion factor into your work as a content editor and publisher?
-  - What steps do you typically take to ensure content creation is inclusive? Please provide some examples of campaigns or plans you’ve led and how they successfully reflected inclusion and accessibility.
+  - What steps do you typically take to ensure content creation is inclusive? Please provide some examples of campaigns or plans you've led and how they successfully reflected inclusion and accessibility.
   - What are some examples of inclusive/non-inclusive language?
 
 #### Preferred

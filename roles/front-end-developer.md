@@ -11,7 +11,9 @@
   - Partner with colleagues and team members to prioritize accessibility in digital content and resources
 
 ### Qualifications
+
 Required: Applicants for the Front-End Developer role are required to have these qualifications:
+
 - Knowledge of digital accessibility and disability inclusion
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
 - Knowledge of WCAG 2.1 AA requirements
@@ -21,16 +23,18 @@ Required: Applicants for the Front-End Developer role are required to have these
 - Experience developing digital products that comply with accessibility standards
 
 Preferred: Applicants with the following qualifications will be preferred:
+
 - Experience incorporating accessibility tests into the development process
-- Experience building digital products where compliance with accessibility standards is part of “definition of done”
+- Experience building digital products where compliance with accessibility standards is part of "definition of done"
 
 ## Interview Questions
 
 ### Screening
+
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
   - How would you define inclusive and/or universal design? Can you provide an
-example? (Does not need to be web related)
+    example? (Does not need to be web related)
   - What resources would you recommend to someone who wants to keep informed of the latest updates on accessibility and inclusive design?
 - Experience developing digital products that comply with accessibility standards
   - How do you see accessibility fitting into your role in the organization?
@@ -39,7 +43,9 @@ example? (Does not need to be web related)
   - What manual testing techniques do you use to confirm a product is accessible and usable while developing?
 
 ### Interview Committee
+
 #### Required
+
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
   - Describe the difference between Section 508 and the Web Content Accessibility Guidelines.
@@ -56,14 +62,15 @@ example? (Does not need to be web related)
   - How can carousels be problematic for users with disabilities?
   - Explain the difference between operable and non-operable content. What is the expected navigation experience for operable content? What is the expected navigation experience for non-operable content?
   - What are landmark regions and how can they be useful? Why do you need to implement a visible Skip to Main Content link and not just the landmark regions?
-  - What is an accessible name? How does the implementation of an accessible name matter for speech recognition? 
+  - What is an accessible name? How does the implementation of an accessible name matter for speech recognition?
 
 #### Preferred
+
 - Experience incorporating accessibility tests into the development process
   - What processes and tools have you used to measure the accessibility of a product?
   - What do you define as manual testing and how have you incorporated manual testing into the development process?
   - Describe an instance where an automated test would not flag a blatant accessibility error.
 
-
 ## Translations
+
 A list of translations will be provided here when received by language. Please submit through GitHub.

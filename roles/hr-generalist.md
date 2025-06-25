@@ -4,7 +4,7 @@
 
 ### Responsibilities
 
-- The HR Generalist develops and facilitates the organization’s human resource policies and daily operations.
+- The HR Generalist develops and facilitates the organization's human resource policies and daily operations.
 - The HR Generalist ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
   - Develops an inclusive workplace culture by implementing organizational policies and practices in accessibility.
   - Leads the development and implementation of inclusive interviewing and hiring processes.
@@ -53,12 +53,12 @@
   - What is WCAG? What are the differences between A, AA, and AAA compliance?
   - What are the Authoring Tools Accessibility Guidelines and what are some of the benefits of using these guidelines when creating an authoring tool?
 - Experience creating accessible job recruitment and onboarding processes.
-  - When writing job descriptions and requirements, what considerations and strategies do you use to ensure that they don’t unnecessarily exclude people with disabilities?
+  - When writing job descriptions and requirements, what considerations and strategies do you use to ensure that they don't unnecessarily exclude people with disabilities?
   - How would you support hiring managers to ensure that they are following an inclusive hiring practice for people with disabilities?
   - Describe how accessibility plays a factor in each part of the interviewing and hiring process, including applications, pre-employment testing, onboarding, etc.
 - Experience producing and procuring accessible systems, tools, and materials to support employees.
   - What are some common employment barriers to people with disabilities and/or assistive technology users?
-  - What procedures would you follow to determine if a vendor’s product(s) are accessible for all employees? What types of information would you request from the vendor, and how would you verify it?
+  - What procedures would you follow to determine if a vendor's product(s) are accessible for all employees? What types of information would you request from the vendor, and how would you verify it?
   - What are some of the considerations you make when creating accessible documents or other informational materials for employees?
   - If you were to have a known inaccessible employment tool but were not able to procure an accessible alternative (e.g. limited options, inadequate budget, etc.), how would you try to provide accommodations to an employee?
 
