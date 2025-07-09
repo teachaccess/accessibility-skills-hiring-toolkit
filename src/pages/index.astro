@@ -1,0 +1,91 @@
+---
+import { getCollection } from "astro:content";
+import { extractRoleTitle } from "../utils/roleUtils";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+// Get roles and process them in a single operation
+const roles = await getCollection("roles", ({ data }) => !data.draft);
+const rolesWithTitles = roles
+  .map((role) => ({
+    ...role,
+    extractedTitle: extractRoleTitle(role),
+  }))
+  .sort((a, b) => a.extractedTitle.localeCompare(b.extractedTitle));
+---
+
+<BaseLayout title="Accessibility Skills Hiring Toolkit">
+  <!-- Header that is an H1 -->
+  <Header isH1 />
+
+  <!-- Start main content -->
+  <main>
+    <div class="max-w-2xl mx-auto px-4 py-4 bg-slate-50">
+      <h2>About the Toolkit</h2>
+
+      <p>
+        Teach Access provides the Accessibility Skills Hiring Toolkit to help
+        organizations build internal capacity for producing accessible digital
+        products by developing a knowledgeable and skilled workforce. The
+        toolkit currently provides Position Description Language and Interview
+        Questions.
+      </p>
+
+      <p>
+        To democratize accessibility across all departments, we currently do not
+        provide roles and responsibilities for accessibility team-specific jobs.
+        This may change, so check back or contact mindy@teachaccess.org
+      </p>
+
+      <h2>Job Positions</h2>
+
+      <h3>Published Roles</h3>
+
+      <ul class="list-disc pl-6">
+        {
+          rolesWithTitles
+            .slice()
+            .sort((a, b) => a.extractedTitle.localeCompare(b.extractedTitle))
+            .map((role) => (
+              <li>
+                <a
+                  href={`/accessibility-skills-hiring-toolkit/roles/${role.slug}`}
+                >
+                  {role.extractedTitle}
+                </a>
+              </li>
+            ))
+        }
+      </ul>
+
+      <h3 id="role-skills-in-development">Role Skills in Development</h3>
+
+      <ul>
+        <li>Customer Support (help desk)</li>
+      </ul>
+
+      <h3 id="submit-a-role">Submit a Role</h3>
+
+      <p>
+        We welcome contributions! <a href="https://forms.gle/dEafQn2x1F1641Jm9"
+          >Fill out this form</a
+        > to submit a role to the Accessibility Skills Hiring Toolkit.
+      </p>
+
+      <h2 id="creative-commons-license">Creative Commons License</h2>
+
+      <p>
+        Accessibility Skills Hiring Toolkit by Teach Access is licensed under a
+        Creative Commons Attribution 4.0 International License. Interview
+        questions adapted from Scott O'Hara's <a
+          href="https://scottaohara.github.io/accessibility_interview_questions/"
+          >Accessibility Interview Questions</a
+        > open source resource.
+      </p>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <Footer />
+</BaseLayout>
