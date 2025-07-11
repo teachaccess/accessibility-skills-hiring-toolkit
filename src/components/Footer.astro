@@ -1,0 +1,30 @@
+---
+import { Image } from "astro:assets";
+import githubLogo from "../images/github-mark-white.svg";
+---
+
+<footer class="bg-gray-950">
+  <div
+    class="mx-auto max-w-2xl px-4 py-8 flex flex-col items-center text-center justify-center gap-4"
+  >
+    <small class="text-gray-50">
+      Teach Access Accessibility Skills Hiring Toolkit maintained by <a
+        href="https://github.com/teachaccess">teachaccess</a
+      >
+    </small>
+
+    <small class="text-gray-50">
+      Published with <a href="https://pages.github.com">GitHub Pages</a>
+    </small>
+
+    <a
+      class="github-button"
+      href="https://github.com/teachaccess/accessibility-skills-hiring-toolkit"
+      >View on GitHub <Image
+        src={githubLogo}
+        alt="GitHub logo."
+        class="w-8 h-8"
+      /></a
+    >
+  </div>
+</footer>

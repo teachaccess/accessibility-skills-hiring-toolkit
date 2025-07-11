@@ -1,0 +1,16 @@
+---
+export interface Props {
+  isH1?: boolean;
+}
+
+const { isH1 = false } = Astro.props;
+const TagType = isH1 ? "h1" : "span";
+---
+
+<header class="bg-sky-950">
+  <div class="max-w-2xl mx-auto px-4 py-4">
+    <TagType class="header">
+      Teach Access Accessibility Skills Hiring Toolkit
+    </TagType>
+  </div>
+</header>

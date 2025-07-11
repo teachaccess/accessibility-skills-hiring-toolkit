@@ -1,0 +1,52 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+  canonicalURL?: string;
+}
+
+const {
+  title,
+  description = "Teach Access provides the Accessibility Skills Hiring Toolkit to help organizations build internal capacity for producing accessible digital products by developing a knowledgeable and skilled workforce. The toolkit currently provides Position Description Language and Interview Questions.",
+  canonicalURL,
+} = Astro.props;
+
+// Use Astro's built-in URL constructor with site from config
+const currentCanonicalURL =
+  canonicalURL || new URL(Astro.url.pathname, Astro.site).href;
+
+import "../styles/global.css";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href={`${import.meta.env.BASE_URL}/favicon.svg`}
+    />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="canonical" href={currentCanonicalURL} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:description" content={description} />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8K0EY6Y3TJ"
+    ></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-8K0EY6Y3TJ");
+    </script>
+  </head>
+  <body class="bg-gray-50 min-h-screen">
+    <slot />
+  </body>
+</html>

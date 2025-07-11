@@ -1,0 +1,31 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import { extractRoleTitle } from "../../utils/roleUtils";
+import RoleLayout from "../../layouts/RoleLayout.astro";
+
+export async function getStaticPaths() {
+  const roles = await getCollection("roles", ({ data }) => !data.draft);
+
+  return roles.map((role) => ({
+    params: { slug: role.slug },
+    props: { role },
+  }));
+}
+
+interface Props {
+  role: CollectionEntry<"roles">;
+}
+
+const { role } = Astro.props;
+const { Content } = await role.render();
+
+// Extract the title - now with improved fallback handling
+const title = extractRoleTitle(role);
+
+// Generate canonical URL for this role using Astro.url.pathname to include base path
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
+---
+
+<RoleLayout title={title} canonicalURL={canonicalURL}>
+  <Content />
+</RoleLayout>
