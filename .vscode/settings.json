@@ -1,0 +1,9 @@
+{
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+  "typescript.suggest.autoImports": true,
+  "typescript.validate.enable": true,
+  "astro.typescript.enabled": true,
+  "files.associations": {
+    "*.astro": "astro"
+  }
+}
