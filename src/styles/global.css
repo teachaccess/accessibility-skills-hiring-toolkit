@@ -16,16 +16,16 @@ a.github-button {
   @apply py-4 min-h-14 inline-flex items-center gap-2 bg-blue-900 text-white focus:outline-2 px-3 focus:outline-blue-200 outline-offset-2 hover:bg-blue-950 hover:text-white focus:bg-blue-950 font-bold tracking-wide text-sm;
 }
 
-.header {
+.h1 {
   @apply text-white text-3xl md:text-5xl font-bold text-pretty tracking-wide leading-normal inline-block;
 }
 
-h1 {
+.role-content h1 {
   @apply text-4xl font-bold text-white tracking-wide bg-sky-800 py-8 mb-4 text-balance;
   margin-left: calc(-50vw + 50%);
   margin-right: calc(-50vw + 50%);
-  padding-left: max(calc(50vw - 50% + 1rem), 1rem);
-  padding-right: max(calc(50vw - 50% + 1rem), 1rem);
+  padding-left: max(calc(50vw - 50%), 1rem);
+  padding-right: max(calc(50vw - 50%), 1rem);
 }
 
 .role-content {
