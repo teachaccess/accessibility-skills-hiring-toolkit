@@ -44,24 +44,21 @@ const rolesWithTitles = roles
 
       <ul class="list-disc pl-6">
         {
-          rolesWithTitles
-            .slice()
-            .sort((a, b) => a.extractedTitle.localeCompare(b.extractedTitle))
-            .map((role) => (
-              <li>
-                <a
-                  href={`/accessibility-skills-hiring-toolkit/roles/${role.slug}`}
-                >
-                  {role.extractedTitle}
-                </a>
-              </li>
-            ))
+          rolesWithTitles.map((role) => (
+            <li>
+              <a
+                href={`${import.meta.env.BASE_URL}/roles/${role.slug}`}
+              >
+                {role.extractedTitle}
+              </a>
+            </li>
+          ))
         }
       </ul>
 
       <h3 id="role-skills-in-development">Role Skills in Development</h3>
 
-      <ul>
+      <ul class="list-disc pl-6">
         <li>Customer Support (help desk)</li>
       </ul>
 
