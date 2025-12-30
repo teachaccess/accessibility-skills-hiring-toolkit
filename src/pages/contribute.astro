@@ -1,0 +1,322 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<BaseLayout
+  title="How to Contribute | Accessibility Skills Hiring Toolkit"
+  noindex={true}
+>
+  <Header />
+
+  <main class="flex-1">
+    <div class="max-w-2xl px-4 py-4 mx-auto bg-slate-50">
+      <h1 class="h1__inline">How to Contribute a Role</h1>
+
+      <p>
+        This guide will help you add a new role to the Accessibility Skills
+        Hiring Toolkit. Follow these steps to create a properly formatted role
+        file.
+      </p>
+
+      <h2>Step 1: Create Your File Name</h2>
+
+      <p>
+        File names must be lowercase with hyphens between words, ending in
+        <code>.md</code>. Use the tool below to convert your role title into the
+        correct format:
+      </p>
+
+      <div class="file-name-converter">
+        <label for="roleInput" class="block mb-2 font-bold">
+          Enter your role name:
+        </label>
+        <input
+          type="text"
+          id="roleInput"
+          placeholder="UX Researcher"
+          class="w-full p-2 mb-2 border border-gray-300 rounded"
+        />
+        <p class="mb-2">
+          <strong>File name:</strong>
+          <code id="fileOutput" class="px-2 py-1 bg-gray-100 rounded"
+            >ux-researcher.md</code
+          >
+        </p>
+        <button
+          id="copyBtn"
+          class="px-4 py-2 text-base font-bold text-white bg-blue-900 rounded cursor-pointer focus:outline-2 focus:outline-black outline-offset-2 hover:bg-black focus:bg-black"
+        >
+          Copy File Name
+        </button>
+      </div>
+
+      <h2>Step 2: Understand the H1 (Main Title)</h2>
+
+      <p>
+        The first heading in your file (marked with a single <code>#</code>)
+        becomes the role title. This is what appears:
+      </p>
+
+      <ul class="pl-6 list-disc">
+        <li>On the homepage role list</li>
+        <li>As the page title when someone views the role</li>
+      </ul>
+
+      <p>
+        <strong>Example:</strong> If your file contains <code
+          ># UX Researcher</code
+        >, then "UX Researcher" will appear on the homepage and as the page
+        title.
+      </p>
+
+      <h2>Step 3: Learn Basic Markdown</h2>
+
+      <p>
+        Markdown is a simple way to format text. Here are the basics you'll
+        need:
+      </p>
+
+      <h3>Headings</h3>
+
+      <div class="markdown-example">
+        <pre><code># Main Title (H1) - Use once at the top
+## Section Title (H2)
+### Subsection Title (H3)
+#### Smaller Section (H4)</code></pre>
+      </div>
+
+      <h3>Bullet Lists</h3>
+
+      <div class="markdown-example">
+        <pre><code>- First item
+- Second item
+- Third item
+  - Sub-item (indent with 2 spaces)
+  - Another sub-item
+    - Even deeper sub-item (indent with 4 spaces)</code></pre>
+      </div>
+
+      <h3>Numbered Lists</h3>
+
+      <div class="markdown-example">
+        <pre><code>1. First step
+2. Second step
+3. Third step
+   - You can mix bullets under numbers
+   - Just indent with 3 spaces</code></pre>
+      </div>
+
+      <h3>Links</h3>
+
+      <div class="markdown-example">
+        <pre><code>[Link text here](https://example.com)</code></pre>
+      </div>
+
+      <h3>Emphasis</h3>
+
+      <div class="markdown-example">
+        <pre><code>**Bold text**
+*Italic text*</code></pre>
+      </div>
+
+      <h2>Step 4: Use the Role Template</h2>
+
+      <p>
+        Copy this template and fill in the sections with your role's specific
+        information:
+      </p>
+
+      <div class="template-box">
+        <button
+          id="copyTemplateBtn"
+          class="px-4 py-2 mb-3 text-base font-bold text-gray-800 bg-blue-100 rounded cursor-pointer focus:outline-2 focus:outline-blue-200 outline-offset-2 hover:bg-blue-200 focus:bg-blue-200"
+        >
+          Copy Template
+        </button>
+        <pre
+          id="templateContent"><code># [Your Role Title Here]
+
+## Position Description
+
+### Responsibilities
+
+- The [Role Title] [brief description of what this role does].
+- The [Role Title] ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
+  - [Responsibility 1]
+  - [Responsibility 2]
+  - [Responsibility 3]
+
+### Qualifications
+
+#### Required
+
+Applicants for the [Role Title] role are required to have these qualifications:
+
+- [Required qualification 1]
+- [Required qualification 2]
+- [Required qualification 3]
+
+#### Preferred
+
+Applicants with the following qualifications will be preferred:
+
+- [Preferred qualification 1]
+- [Preferred qualification 2]
+
+## Interview Questions
+
+### Screening
+
+- [Qualification or skill being assessed]
+  - [Question 1]?
+  - [Question 2]?
+  - [Question 3]?
+
+### Interview Committee
+
+#### Required
+
+- [Qualification or skill being assessed]
+  - [Question 1]?
+  - [Question 2]?
+
+#### Preferred
+
+- [Qualification or skill being assessed]
+  - [Question 1]?
+  - [Question 2]?
+
+## Translations
+
+A list of translations will be provided here when received by language. Please submit through GitHub.</code></pre>
+      </div>
+
+      <h2>Step 5: Submit Your Role</h2>
+
+      <p>
+        Once you've created your markdown file using the template above, submit
+        it through GitHub:
+      </p>
+
+      <ol>
+        <li>
+          Go to the <a
+            href="https://github.com/teachaccess/accessibility-skills-hiring-toolkit/tree/gh-pages/src/content/roles"
+            target="_blank"
+            rel="noopener noreferrer">roles folder on GitHub</a
+          >
+        </li>
+        <li>Select "Add file" → "Create new file"</li>
+        <li>Name your file using the file name from Step 1</li>
+        <li>Paste your content based on the template from Step 4</li>
+        <li>Select "Propose new file" to create a pull request</li>
+      </ol>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  code {
+    background-color: #f3f4f6;
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    font-family: monospace;
+    font-size: 0.9em;
+  }
+
+  .markdown-example,
+  .template-box {
+    background-color: #1e293b;
+    color: #e2e8f0;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+    overflow-x: auto;
+  }
+
+  .markdown-example pre,
+  .template-box pre {
+    margin: 0;
+  }
+
+  .markdown-example code,
+  .template-box code {
+    background-color: transparent;
+    color: #e2e8f0;
+    padding: 0;
+    font-size: 0.875rem;
+  }
+
+  .file-name-converter {
+    background-color: #f8fafc;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid #cbd5e1;
+    margin: 1rem 0;
+  }
+
+  ol {
+    list-style: decimal;
+    padding-left: 1.5rem;
+    margin: 1rem 0;
+  }
+
+  ol li {
+    margin: 0.5rem 0;
+  }
+</style>
+
+<script>
+  // File name converter
+  const roleInput = document.getElementById("roleInput") as HTMLInputElement;
+  const fileOutput = document.getElementById("fileOutput");
+  const copyBtn = document.getElementById("copyBtn");
+  const copyTemplateBtn = document.getElementById("copyTemplateBtn");
+  const templateContent = document.getElementById("templateContent");
+
+  function toKebabCase(str: string): string {
+    return (
+      str
+        .trim()
+        .toLowerCase()
+        // Replace spaces and special characters with hyphens
+        .replace(/[^a-z0-9]+/g, "-")
+        // Remove leading/trailing hyphens
+        .replace(/^-+|-+$/g, "") + ".md"
+    );
+  }
+
+  roleInput?.addEventListener("input", (e) => {
+    const input = (e.target as HTMLInputElement).value;
+    const fileName = toKebabCase(input);
+    if (fileOutput) {
+      fileOutput.textContent = fileName || "your-role-name.md";
+    }
+  });
+
+  copyBtn?.addEventListener("click", () => {
+    const fileName = fileOutput?.textContent || "";
+    navigator.clipboard.writeText(fileName).then(() => {
+      const originalText = copyBtn.textContent;
+      copyBtn.textContent = "Copied!";
+      setTimeout(() => {
+        copyBtn.textContent = originalText;
+      }, 2000);
+    });
+  });
+
+  copyTemplateBtn?.addEventListener("click", () => {
+    const template = templateContent?.textContent || "";
+    navigator.clipboard.writeText(template).then(() => {
+      const originalText = copyTemplateBtn.textContent;
+      copyTemplateBtn.textContent = "Copied!";
+      setTimeout(() => {
+        copyTemplateBtn.textContent = originalText;
+      }, 2000);
+    });
+  });
+</script>

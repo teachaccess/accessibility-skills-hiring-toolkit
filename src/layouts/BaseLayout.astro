@@ -3,12 +3,14 @@ export interface Props {
   title: string;
   description?: string;
   canonicalURL?: string;
+  noindex?: boolean;
 }
 
 const {
   title,
   description = "Teach Access provides the Accessibility Skills Hiring Toolkit to help organizations build internal capacity for producing accessible digital products by developing a knowledgeable and skilled workforce. The toolkit currently provides Position Description Language and Interview Questions.",
   canonicalURL,
+  noindex = false,
 } = Astro.props;
 
 // Use Astro's built-in URL constructor with site from config
@@ -32,6 +34,7 @@ import "../styles/global.css";
     <title>{title}</title>
     <meta name="description" content={description} />
     <meta property="og:description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8K0EY6Y3TJ"

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Hide contribution guide from search engines
+Disallow: /contribute
+Disallow: /contribute/
