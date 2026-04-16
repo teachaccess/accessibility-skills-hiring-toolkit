@@ -1,8 +1,6 @@
 # Front End Developer
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Front-End Developer builds digital products.
 - The Front-End Developer ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -10,9 +8,9 @@
   - Incorporate accessibility features into digital content and resources
   - Partner with colleagues and team members to prioritize accessibility in digital content and resources
 
-### Qualifications
+## Qualifications
 
-Required: Applicants for the Front-End Developer role are required to have these qualifications:
+### Required
 
 - Knowledge of digital accessibility and disability inclusion
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
@@ -22,14 +20,14 @@ Required: Applicants for the Front-End Developer role are required to have these
 - Experience optimizing for the accessibility features of the platform (HTML, iOS, Android)
 - Experience developing digital products that comply with accessibility standards
 
-Preferred: Applicants with the following qualifications will be preferred:
+### Preferred
 
 - Experience incorporating accessibility tests into the development process
 - Experience building digital products where compliance with accessibility standards is part of "definition of done"
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -42,9 +40,7 @@ Preferred: Applicants with the following qualifications will be preferred:
   - What educational resources would you recommend to a developer or designer that wants to improve their accessibility skills?
   - What manual testing techniques do you use to confirm a product is accessible and usable while developing?
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
@@ -64,8 +60,6 @@ Preferred: Applicants with the following qualifications will be preferred:
   - What are landmark regions and how can they be useful? Why do you need to implement a visible Skip to Main Content link and not just the landmark regions?
   - What is an accessible name? How does the implementation of an accessible name matter for speech recognition?
 
-#### Preferred
-
 - Experience incorporating accessibility tests into the development process
   - What processes and tools have you used to measure the accessibility of a product?
   - What do you define as manual testing and how have you incorporated manual testing into the development process?
@@ -74,3 +68,7 @@ Preferred: Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

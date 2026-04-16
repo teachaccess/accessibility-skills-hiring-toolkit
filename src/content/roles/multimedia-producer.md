@@ -1,8 +1,6 @@
 # Multimedia Producer
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Multimedia Author/Producer creates, produces, and publishes digital audio, visual, and video content.
 - The Multimedia Author/Producer ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -12,9 +10,9 @@
   - Use multimedia publishing platforms that support accessibility
   - Partner with colleagues and team members to prioritize accessibility in multimedia production
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the Media Author/Producer role are required to have these qualifications:
 
@@ -24,7 +22,7 @@ Applicants for the Media Author/Producer role are required to have these qualifi
 - Experience creating effective audio descriptions, alternative text descriptions for images, media transcripts, and other accessible content
 - Experience creating media content that reflects diversity and inclusion
 
-#### Preferred
+### Preferred
 
 Applicants with the following qualifications will be preferred:
 
@@ -33,9 +31,9 @@ Applicants with the following qualifications will be preferred:
 - Experience writing and producing audio descriptions
 - Experience incorporating production of alternatives (e.g., captions, audio description) into production workflows
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -45,9 +43,7 @@ Applicants with the following qualifications will be preferred:
   - How do you see accessibility fitting into your role in the organization?
   - How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, etc.). Give an overview of the process you go through for (insert example).
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of CVAA and other regulations and resources related to media accessibility
   - What does CVAA stand for? What are the requirements?
@@ -69,8 +65,6 @@ Applicants with the following qualifications will be preferred:
   - What steps do you typically take to ensure your media is inclusive? Please provide some examples of actions you’ve taken.
   - What are some examples of inclusive/non-inclusive media elements?
 
-#### Preferred
-
 - Describe your experience with self-described video production best practices
 - Describe your experience adapting scripts for media transcripts
 - Describe your experience writing and producing audio descriptions
@@ -79,3 +73,7 @@ Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

@@ -1,8 +1,6 @@
 # Legal Counsel
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Legal Counsel ensures the organization meets its digital accessibility compliance obligations.
 - The Legal Counsel ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -11,9 +9,9 @@
   - Incorporate accessibility requirements into policies and contracts
   - Provide legal support and guidance to colleagues and teams responsible for producing, procuring, and providing digital resources
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the Legal Counsel role are required to have these qualifications:
 
@@ -23,16 +21,16 @@ Applicants for the Legal Counsel role are required to have these qualifications:
 - Experience incorporating compliance with digital accessibility regulations and standards into organizational policies and practices
 - Experience supporting colleagues and teams in meeting their compliance responsibilities
 
-#### Preferred
+### Preferred
 
 Applicants with the following qualifications will be preferred:
 
 - Experience incorporating compliance with digital accessibility regulations and standards into contracts with third parties (e.g., technology vendors, professional services)
 - Experience responding to complaints related to inaccessible digital resources
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -43,9 +41,7 @@ Applicants with the following qualifications will be preferred:
 - Experience supporting colleagues and teams in meeting their compliance responsibilities
   - How have you supported digital accessibility efforts within an organization?
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of laws and regulations related to digital accessibility (e.g., Section 508, ADA, Equality Act, Web Accessibility Directive)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
@@ -59,8 +55,6 @@ Applicants with the following qualifications will be preferred:
 - Experience supporting colleagues and teams in meeting their compliance responsibilities
   What are common questions you receive from colleagues related to digital accessibility?
 
-#### Preferred
-
 - Experience incorporating compliance with digital accessibility regulations and standards into contracts with third parties (e.g., technology vendors, professional services)
   - Describe your efforts to address digital accessibility compliance with third parties. Have you partnered with colleagues in procurement?
 - Experience responding to complaints related to inaccessible digital resources
@@ -70,3 +64,7 @@ Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

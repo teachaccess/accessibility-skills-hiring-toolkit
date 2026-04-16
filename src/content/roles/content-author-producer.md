@@ -1,8 +1,6 @@
 # Content Author/Producer
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Content Author/Producer creates, produces, and publishes primarily text-based content.
 - The Content Author/Producer ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -12,9 +10,9 @@
   - Use content authoring and publishing platforms that support accessibility
   - Partner with colleagues and team members to prioritize accessibility in content production
 
-### Qualifications
+## Qualifications
 
-Required: Applicants for the Content Author/Producer role are required to have these qualifications:
+### Required
 
 - Knowledge of digital accessibility and disability inclusion
 - Knowledge of the Plain Writing Act of 2010 and other regulations related to content accessibility
@@ -22,15 +20,15 @@ Required: Applicants for the Content Author/Producer role are required to have t
 - Experience creating accessible content using plain language and clear and structured content, and providing alternatives as needed
 - Experience creating content that reflects diversity and inclusion
 
-Preferred: Applicants with the following qualifications will be preferred:
+### Preferred
 
 - Experience creating content that follows Plain Language Guidelines
 - Experience incorporating production of alternatives (e.g., captions, image descriptions) into content authoring workflows
 - Experience incorporating accessibility into content authoring resource, such as style guides
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -40,9 +38,7 @@ Preferred: Applicants with the following qualifications will be preferred:
   - How do you see accessibility fitting into your role in the organization?
   - How do you incorporate accessibility into your day to day activities? (Email, document creation, social media, when presenting content, etc.). Give an overview of the process you go through for (insert example).
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of the Plain Writing Act of 2010 and other regulations related to content accessibility
   - What is the Plain Writing Act of 2010?
@@ -60,8 +56,6 @@ Preferred: Applicants with the following qualifications will be preferred:
   - What steps do you typically take to ensure your content is inclusive? Please provide some examples of actions you've taken.
   - What are some examples of inclusive/non-inclusive language?
 
-#### Preferred
-
 - Describe your experience creating content that follows Plain Language Guidelines
 - Describe your experience incorporating production of alternatives (e.g., captions, image descriptions) into content authoring workflows
 - Describe your experience incorporating accessibility into content authoring resource, such as style guides
@@ -69,3 +63,7 @@ Preferred: Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

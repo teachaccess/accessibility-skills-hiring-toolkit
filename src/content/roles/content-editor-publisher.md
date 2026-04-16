@@ -1,8 +1,6 @@
 # Content Editor/Publisher
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Content Editor/Publisher reviews and edits to finalize primarily text-based content.
 - The Content Editor/Publisher reviews content to confirm all copy is in compliance with digital accessibility regulations and requirements.
@@ -12,9 +10,9 @@
   - Develop content strategies that include the most accessible content channels/platforms for publishing.
   - Partner with external thought leaders as well as fellow colleagues to help advance accessibility and identify new opportunities and trends for more inclusive and accessible content.
 
-### Qualifications
+## Qualifications
 
-Required: Applicants for the Content Editor/Publisher role are required to have these qualifications:
+### Required
 
 - Experience and expertise in the areas of digital accessibility and disability inclusion.
 - Experience and expertise in the area of the Plain Writing Act of 2010 and other regulations related to content accessibility.
@@ -22,15 +20,15 @@ Required: Applicants for the Content Editor/Publisher role are required to have 
 - Proven record of leading creation of accessible content with plain language for effective communications.
 - Experience in delivering strategies with content that resonates and reflects diversity and inclusion.
 
-Preferred: Applications with the following qualifications will be preferred:
+### Preferred
 
 - Adept and knowledgeable about Plain Language Guidelines.
 - Experienced with coaching writers to include accessible content alternatives like captioning, image descriptions as part of the workflow (versus an afterthought).
 - Experience leading teams and managing people.
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -40,9 +38,7 @@ Preferred: Applications with the following qualifications will be preferred:
   - As a leader, how would you bring a culture of accessibility into your organization? How would you instruct and coach team members?
   - How do you ensure that all team members incorporate accessibility into their day to day activities? How do you lead by example? (Email, document creation, social media, when presenting content, etc.). Give an overview of the process you go through for (insert example).
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of the Plain Writing Act of 2010 and other regulations related to content accessibility
   - What is the Plain Writing Act of 2010?
@@ -60,8 +56,6 @@ Preferred: Applications with the following qualifications will be preferred:
   - What steps do you typically take to ensure content creation is inclusive? Please provide some examples of campaigns or plans you've led and how they successfully reflected inclusion and accessibility.
   - What are some examples of inclusive/non-inclusive language?
 
-#### Preferred
-
 - Describe your experience leading the creation of content that follows Plain Language Guidelines
 - Describe your experience leading writers and designers to create alternatives (e.g., captions, image descriptions) into content authoring workflows
 - Describe your experience incorporating accessibility into content creation, such as style guides
@@ -69,3 +63,7 @@ Preferred: Applications with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

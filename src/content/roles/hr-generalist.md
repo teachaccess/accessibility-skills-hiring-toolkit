@@ -1,8 +1,6 @@
 # HR Generalist
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The HR Generalist develops and facilitates the organization's human resource policies and daily operations.
 - The HR Generalist ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -11,9 +9,9 @@
   - Provides guidance and support implementing reasonable accommodations for employees with disabilities.
   - Creates and procures accessible HR platforms and information systems, productivity tools, and supplemental materials and resources.
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 - Knowledge of digital accessibility and digital inclusion
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
@@ -22,14 +20,14 @@
 - Experience creating accessible job recruitment and onboarding processes
 - Experience producing and procuring accessible systems, tools, and materials to support employees
 
-#### Preferred
+### Preferred
 
 - Applications with the following qualifications will be preferred:
   - Experience delivering training to staff in order to create and facilitate inclusive work environments.
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening Questions
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -42,9 +40,7 @@
   - Describe some of the accommodations you would expect to provide for the following types of disabilities: neurodiversity, deaf or hearing impairment, visual impairment, and mobility impairment.
   - Describe the difference between work expectations compared to reasonable accommodations for employees?
 
-### Interview Committee Questions
-
-#### Required
+### Technical
 
 - Knowledge of regulations related to digital accessibility (e.g., Section 5-8, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
@@ -62,8 +58,6 @@
   - What are some of the considerations you make when creating accessible documents or other informational materials for employees?
   - If you were to have a known inaccessible employment tool but were not able to procure an accessible alternative (e.g. limited options, inadequate budget, etc.), how would you try to provide accommodations to an employee?
 
-#### Preferred
-
 - Experience delivering training to staff in order to create and facilitate inclusive work environments.
   - What methods would you employ to identify and address cultural barriers to inclusion within the workplace?
   - How would you respond to a situation in the workplace which promoted ableism or was viewed as a microaggression?
@@ -72,3 +66,7 @@
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

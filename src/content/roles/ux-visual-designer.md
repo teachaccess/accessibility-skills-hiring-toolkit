@@ -1,8 +1,6 @@
 # UX/Visual Designer
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The UX/Visual Designer creates visual designs and communicates visual design requirements.
 - The UX/Visual Designer ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -10,9 +8,9 @@
 - Incorporate accessibility requirements into design documents and specifications
 - Partner with colleagues and team members to prioritize accessibility in visual designs
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the UX/Visual Designer role are required to have these qualifications:
 
@@ -25,15 +23,15 @@ Applicants for the UX/Visual Designer role are required to have these qualificat
 - Experience designing layouts that are accessible and responsive
 - Experience conducting accessible and inclusive user research and user testing for visual designs and in the development of products and service
 
-#### Preferred
+### Preferred
 
 Applicants with the following qualifications will be preferred:
 
 - Experience articulating and incorporating accessibility requirements into visual design documents and specifications
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening Questions
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -46,9 +44,7 @@ Applicants with the following qualifications will be preferred:
   - Explain the importance of color contrast in designing for inclusion.
   - Explain the importance of providing alternatives for color coded content in designing for inclusion.
 
-### Interview Committee Questions
-
-#### Required
+### Technical
 
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
@@ -80,8 +76,6 @@ Applicants with the following qualifications will be preferred:
   - How might you implement or keep accessibility in mind when conducting user research?
   - How might you implement or keep accessibility in mind when testing a prototype?
 
-#### Preferred
-
 - Experience articulating and incorporating accessibility requirements into visual design documents and specifications
   - When should you use or recommend ARIA roles or attributes to solve an accessibility issue?
 - Preferred question: Experience using assistive technologies (e.g., VoiceOver, JAWS, Dragon Naturally Speaking, ZoomText, mobile solutions, etc).
@@ -90,3 +84,7 @@ Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

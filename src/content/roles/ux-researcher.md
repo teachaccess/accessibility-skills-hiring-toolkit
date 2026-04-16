@@ -1,8 +1,6 @@
 # UX Researcher
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 The UX Researcher conducts and oversees studies that inform the development of a product or service. The UX Researcher ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
 
@@ -11,9 +9,9 @@ The UX Researcher conducts and oversees studies that inform the development of a
 - Incorporates accessibility, equity, and human factors guidelines within design recommendations. Conducts additional research that goes beyond existing guidelines and regulations, informing new standards and novel experiences.
 - Partners with colleagues and team members to prioritize accessibility and equity in the design process.
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the UX Researcher role are required to have these qualifications:
 
@@ -22,16 +20,16 @@ Applicants for the UX Researcher role are required to have these qualifications:
 - Strong understanding of equity and inclusion in product design.
 - Knowledge of digital accessibility standards, guidelines, and regulations (e.g., Web Content Accessibility Guidelines, VPAT, EN 301 549, ETSI TR 102 612, Human Factors data sources)
 
-#### Preferred
+### Preferred
 
 Applicants with the following qualifications will be preferred:
 
 - Experience translating accessibility & equity-related insights into actionable change.
 - Experience with a range of multi-modal interaction methods (speech, touch, motion, etc.)
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Experience with collaborative-based/co-design approaches that prioritize the preferences, aspirations, and lived experiences of people with disabilities.
   - Could you share a project where you integrated principles of equitable and inclusive design? How did you approach it? Who did you collaborate with?
@@ -48,9 +46,7 @@ Applicants with the following qualifications will be preferred:
 - Knowledge of digital accessibility standards, guidelines, and regulations (e.g., Web Content Accessibility Guidelines, VPAT, EN 301 549, ETSI TR 102 612, Human Factors data sources)
   - How do existing regulations, standards, and guidelines play a role in your approach to research? Can you share an example?
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Strong understanding of Disability history and intersectionality.
   - Design a study for a video conferencing captioning tool.
@@ -69,8 +65,6 @@ Applicants with the following qualifications will be preferred:
     - Why not (insert another sampling method or accessibility standard)?
     - (If mentions WCAG): What are the differences between A, AA, and AAA compliance?
 
-#### Preferred
-
 - Experience translating accessibility & equity-related insights into actionable change.
   - Walk us through a project where you improved the accessibility of a product. What specifically did you change? Who did you partner with most closely to build and launch it (or not launch it, if applicable).
   - What is the biggest challenge you face, as a researcher, when developing accessible products?
@@ -83,3 +77,7 @@ Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

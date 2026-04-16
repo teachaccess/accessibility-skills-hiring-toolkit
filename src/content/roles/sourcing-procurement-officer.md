@@ -1,8 +1,6 @@
 # Sourcing/Procurement Officer
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Sourcing/Procurement Officer identifies third-party resources (professional services, technology systems and tools, content) for use in providing digital products and ensures compliance with requirements.
 - The Sourcing/Procurement Officer ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -12,9 +10,9 @@
   - Monitor compliance with contractual requirements related to accessibility
   - Partner with colleagues and team members to prioritize accessibility in sourcing and procuring resources
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the Sourcing/Procurement Officer role are required to have these qualifications:
 
@@ -24,7 +22,7 @@ Applicants for the Sourcing/Procurement Officer role are required to have these 
 - Experience ensuring compliance with non-functional requirements (e.g., security, privacy) for technology procurement and professional services
 - Experience including accessibility requirements when sourcing and procuring technology resources
 
-#### Preferred
+### Preferred
 
 Applicants with the following qualifications will be preferred:
 
@@ -32,9 +30,9 @@ Applicants with the following qualifications will be preferred:
 - Experience using sourcing and procurement resources, such as the Accessible ICT Procurement Toolkit
 - Experience working with 3rd parties to improve support for digital accessibility (e.g., through product accessibility roadmaps)
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -44,9 +42,7 @@ Applicants with the following qualifications will be preferred:
   - How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, etc.). Give an overview of the process you go through for (insert example).
   - How do you see accessibility fitting into your role in the organization?
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of the ICT Standards and Guidelines and other regulations related to digital accessibility (e.g., ADA, EN 301 549)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
@@ -64,8 +60,6 @@ Applicants with the following qualifications will be preferred:
   - If purchasing the most accessible product out of multiple vendors, how do you ensure any outstanding issues are addressed in your contract with the vendor?
   - Describe the impact of product procurement on the overall product life cycle.
 
-#### Preferred
-
 - Experience evaluating and responding to accessibility compliance reports, such as VPATs
   - What is a VPAT? How do you approach requesting and evaluating VPATs?
 - Experience using sourcing and procurement resources, such as the Accessible ICT Procurement Toolkit
@@ -76,3 +70,7 @@ Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

@@ -1,8 +1,6 @@
 # Project Manager
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Project Manager manages product development activities.
 - The Project Manager ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -11,9 +9,9 @@
   - Include accessibility evaluation in product testing (e.g., usability testing, use case tests)
   - Support design, development, and/or procurement teams in prioritizing accessibility in project planning and product development
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the Project Manager role are required to have these qualifications:
 
@@ -23,7 +21,7 @@ Applicants for the Project Manager role are required to have these qualification
 - Experience managing projects that require compliance with non-functional requirements (e.g., security, privacy) including accessibility
 - Experience incorporating accessibility into project planning and product development methodologies
 
-#### Preferred
+### Preferred
 
 Applicants with the following qualifications will be preferred:
 
@@ -31,9 +29,9 @@ Applicants with the following qualifications will be preferred:
 - Experience coordinating accessibility and usability testing with an ability to understand testing and prioritize testing results.
 - Experience managing projects without resorting to an accessibility backlog
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -45,9 +43,7 @@ Applicants with the following qualifications will be preferred:
   - Describe at least five disability etiquette tips every manager should know.
   - How would you convince leadership to allocate funds and resources to conduct accessibility audits?
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Provide a general overview of the laws related to digital accessibility and how they differ.
@@ -69,8 +65,6 @@ Applicants with the following qualifications will be preferred:
   - What is the biggest challenge, cross functionally, to getting accessibility features launched? In your experience, how have you overcome this challenge?
   - Have you encountered a situation where an internal process was inaccessible or unusable by a member of your project team? If so, how did you address the issue? If not, what steps would you take to find an accessible solution?
 
-#### Preferred
-
 - Experience engaging with people with disabilities in research and design activities
   - How have you engaged users with disabilities in providing feedback throughout the design, development, and user experience research processes?
 - Experience coordinating accessibility and usability testing with an ability to understand and prioritize testing results
@@ -82,3 +76,5 @@ Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+> **Disclaimer:** Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

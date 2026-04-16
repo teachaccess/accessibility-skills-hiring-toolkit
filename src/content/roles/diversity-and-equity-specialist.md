@@ -1,8 +1,6 @@
 # Diversity and Equity Specialist
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Diversity and Equity Specialist promotes inclusion of the disability community along with other marginalized communities in spaces where they are often not included.
 - The Diversity and Equity Specialist educates people on disability inclusion as part of their role, including the importance of digital accessibility.
@@ -11,9 +9,9 @@
   - Sharing lived experience stories by members of the disability community.
   - Using language supported by the disability community.
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the Diversity and Equity Specialist role are required to have these qualifications:
 
@@ -22,22 +20,20 @@ Applicants for the Diversity and Equity Specialist role are required to have the
 - Knowledge of the social model, biopsychosocial model, and human rights models of disability
 - Knowledge of both identity first and person first disability language and why both are important.
 
-#### Preferred
+### Preferred
 
 - Knowledge of key milestones in the disability rights movement
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening Questions
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion.
   - Who benefits from accessibility?
 - Knowledge of digital content accessibility best practices
   - What is alt text and why is it important?
 
-### Interview Committee Questions
-
-#### Required
+### Technical
 
 - Knowledge of digital accessibility and disability inclusion
   - Provide an overview of how you would make a virtual event accessible?
@@ -51,3 +47,7 @@ Applicants for the Diversity and Equity Specialist role are required to have the
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

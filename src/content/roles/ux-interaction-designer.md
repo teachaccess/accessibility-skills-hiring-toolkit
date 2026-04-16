@@ -1,8 +1,6 @@
 # UX/Interaction Designer
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The UX/Interaction Designer creates user experience and interaction designs and communicates requirements.
 - The UX/Interaction Designer ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
@@ -10,9 +8,9 @@
 - Incorporate accessibility requirements into design documents and specifications
 - Partner with colleagues and team members to prioritize accessibility in user experience and interaction design
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the UX/Interaction Designer role are required to have these qualifications:
 
@@ -23,14 +21,14 @@ Applicants for the UX/Interaction Designer role are required to have these quali
 - Experience designing for platform technologies (e.g., HTML, CSS, JavaScript, iOS, Android)
 - Experience designing inclusive flows that take into account keyboard interaction, non-visual user interaction, use of color and contrast, and multimedia interactions
 
-#### Preferred: Applicants with the following qualifications will be preferred:
+### Preferred
 
 - Experience articulating and incorporating accessibility requirements into user experience and interaction design documents and specifications
 - Experience conducting usability tests that include participants with disabilities
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -41,9 +39,7 @@ Applicants for the UX/Interaction Designer role are required to have these quali
   - How do you incorporate accessibility into your day to day activities? (Email, document creation, when presenting content, etc.). Give an overview of the process you go through for (insert example).
   - What educational resources would you recommend to a developer or designer that wants to improve their accessibility skills?
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
@@ -63,8 +59,6 @@ Applicants for the UX/Interaction Designer role are required to have these quali
   - Hypothetically, if you were designing a training course, what are key design considerations you would make when implementing a video? To drill down farther, how would someone who is deaf-blind interact with a video?
   - Have you worked on accessibility for a design system (if not, have you come across an example?). How was accessibility integrated, and was it done well?
 
-#### Preferred
-
 - Experience articulating and incorporating accessibility requirements into user experience and interaction design documents and specifications
   - When should you use or recommend ARIA roles or attributes to solve an accessibility issue?
 - Experience conducting usability tests that include participants with disabilities
@@ -75,3 +69,7 @@ Applicants for the UX/Interaction Designer role are required to have these quali
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.

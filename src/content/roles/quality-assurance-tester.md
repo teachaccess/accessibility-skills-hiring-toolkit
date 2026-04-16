@@ -1,17 +1,15 @@
 # Quality Assurance Tester
 
-## Position Description
-
-### Responsibilities
+## Accessibility Responsibilities
 
 - The Quality Assurance Tester evaluates digital products to ensure compliance with quality standards and requirements.
 - The Quality Assurance Tester ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
   - Perform accessibility tests using evaluation tools, manual testing, and assistive technologies
   - Record results of accessibility tests
 
-### Qualifications
+## Qualifications
 
-#### Required
+### Required
 
 Applicants for the Quality Assurance Tester role are required to have these qualifications:
 
@@ -22,16 +20,16 @@ Applicants for the Quality Assurance Tester role are required to have these qual
 - Experience using accessibility evaluation tools and frameworks (e.g., WAVE, Developer Tools, Accessibility Inspector)
 - Experience using assistive technologies (e.g., VoiceOver, JAWS, Dragon Naturally Speaking, ZoomText)
 
-#### Preferred
+### Preferred
 
 Applicants with the following qualifications will be preferred:
 
 - Professional training in using assistive technologies
 - Experience conducting usability tests that include participants with disabilities
 
-## Interview Questions
+## Recruitment Questions
 
-### Screening
+### Behavioral
 
 - Knowledge of digital accessibility and disability inclusion
   - Who benefits from accessibility?
@@ -43,9 +41,7 @@ Applicants with the following qualifications will be preferred:
   - What processes and tools have you used to measure the accessibility of a product?
   - What manual testing techniques do you use to confirm a product is accessible and usable?
 
-### Interview Committee
-
-#### Required
+### Technical
 
 - Knowledge of regulations related to digital accessibility (e.g., Section 508, ADA)
   - Describe the difference between Section 504 and Section 508 of the Rehabilitation Act.
@@ -66,8 +62,6 @@ Applicants with the following qualifications will be preferred:
   - How do you test with a screen reader? Give a brief overview of some of the keyboard commands you use.
   - What's your experience with mobile testing (e.g., Screen Reader, Bluetooth keyboard, etc.)?
 
-#### Preferred
-
 - Professional training in using assistive technologies
   - Provide an overview of the assistive technologies you've used and how you've used them for testing?
 - Experience conducting usability tests that include participants with disabilities
@@ -76,3 +70,7 @@ Applicants with the following qualifications will be preferred:
 ## Translations
 
 A list of translations will be provided here when received by language. Please submit through GitHub.
+
+**Reminder**
+
+> Use this toolkit to incorporate accessibility-focused knowledge, skills, and sample pre-screening and interview questions into your job descriptions and hiring process.
