@@ -63,3 +63,7 @@ Applicants with the following qualifications will be preferred:
 #### Preferred
 
 - Describe your experience applying best practices in universal design for learning to create inclusive instructional digital resource
+
+## Translations
+
+A list of translations will be provided here when received by language. Please submit through GitHub.

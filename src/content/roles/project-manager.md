@@ -78,3 +78,7 @@ Applicants with the following qualifications will be preferred:
   - What steps would you take to guide designers and developers on your team who are struggling to understand or act on an accessibility testing report?
 - Experience managing projects without resorting to an accessibility backlog
   - Describe how you would prioritize accessibility issues that need to be addressed.
+
+## Translations
+
+A list of translations will be provided here when received by language. Please submit through GitHub.

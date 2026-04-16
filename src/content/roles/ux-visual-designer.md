@@ -86,3 +86,7 @@ Applicants with the following qualifications will be preferred:
   - When should you use or recommend ARIA roles or attributes to solve an accessibility issue?
 - Preferred question: Experience using assistive technologies (e.g., VoiceOver, JAWS, Dragon Naturally Speaking, ZoomText, mobile solutions, etc).
   - Describe two types of assistive technology and how you have tested with them.
+
+## Translations
+
+A list of translations will be provided here when received by language. Please submit through GitHub.

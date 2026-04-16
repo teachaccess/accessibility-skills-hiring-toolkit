@@ -4,16 +4,13 @@
 
 ### Responsibilities
 
-The Content Editor/Publisher reviews and edits to finalize primarily text-based content.
-
-The Content Editor/Publisher reviews content to confirm all copy is in compliance with digital accessibility regulations and requirements.
-
-The Content Editor/Publisher ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
-
-- Manage, coach and guide content authors on key accessibility regulations.
-- Provide thoughtful, meaningful feedback on content to build capability with content authors.
-- Develop content strategies that include the most accessible content channels/platforms for publishing.
-- Partner with external thought leaders as well as fellow colleagues to help advance accessibility and identify new opportunities and trends for more inclusive and accessible content.
+- The Content Editor/Publisher reviews and edits to finalize primarily text-based content.
+- The Content Editor/Publisher reviews content to confirm all copy is in compliance with digital accessibility regulations and requirements.
+- The Content Editor/Publisher ensures compliance with digital accessibility regulations and requirements by performing the following duties and responsibilities:
+  - Manage, coach and guide content authors on key accessibility regulations.
+  - Provide thoughtful, meaningful feedback on content to build capability with content authors.
+  - Develop content strategies that include the most accessible content channels/platforms for publishing.
+  - Partner with external thought leaders as well as fellow colleagues to help advance accessibility and identify new opportunities and trends for more inclusive and accessible content.
 
 ### Qualifications
 
@@ -68,3 +65,7 @@ Preferred: Applications with the following qualifications will be preferred:
 - Describe your experience leading the creation of content that follows Plain Language Guidelines
 - Describe your experience leading writers and designers to create alternatives (e.g., captions, image descriptions) into content authoring workflows
 - Describe your experience incorporating accessibility into content creation, such as style guides
+
+## Translations
+
+A list of translations will be provided here when received by language. Please submit through GitHub.

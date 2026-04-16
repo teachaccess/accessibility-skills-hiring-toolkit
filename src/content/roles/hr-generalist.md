@@ -68,3 +68,7 @@
   - What methods would you employ to identify and address cultural barriers to inclusion within the workplace?
   - How would you respond to a situation in the workplace which promoted ableism or was viewed as a microaggression?
   - Describe some topics and strategies that you have used with staff in order to establish a more accessible and inclusive workplace?
+
+## Translations
+
+A list of translations will be provided here when received by language. Please submit through GitHub.
