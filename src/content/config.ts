@@ -10,4 +10,5 @@ const rolesCollection = defineCollection({
 
 export const collections = {
   roles: rolesCollection,
+  k12Roles: rolesCollection,
 };

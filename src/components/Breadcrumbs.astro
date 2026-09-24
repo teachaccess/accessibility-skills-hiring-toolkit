@@ -1,11 +1,16 @@
 ---
-
+export interface Props {
+  href?: string;
+  label?: string;
+}
+const { href = import.meta.env.BASE_URL, label = "Back to Toolkit" } =
+  Astro.props;
 ---
 
 <div class="bg-sky-950">
   <nav aria-label="Breadcrumb" class="max-w-2xl mx-auto px-4 py-2">
-    <a href={import.meta.env.BASE_URL} class="breadcrumbs">
-      ← Back to Toolkit
+    <a href={href} class="breadcrumbs">
+      ← {label}
     </a>
   </nav>
 </div>

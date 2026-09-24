@@ -5,6 +5,10 @@ export interface Props {
 
 const { isH1 = false } = Astro.props;
 const TagType = isH1 ? "h1" : "span";
+const baseURL = import.meta.env.BASE_URL.replace(/\/$/, "");
+const k12URL = `${baseURL}/k-12-toolkit`;
+const currentPath = Astro.url.pathname.replace(/\/$/, "");
+const isK12 = currentPath === k12URL || currentPath.startsWith(`${k12URL}/`);
 ---
 
 <header class="bg-sky-950">
@@ -12,5 +16,25 @@ const TagType = isH1 ? "h1" : "span";
     <TagType class="h1">
       Teach Access Accessibility Skills Hiring Toolkit
     </TagType>
+    <nav
+      aria-label="Main navigation"
+      class="flex flex-wrap gap-x-6 gap-y-2 pt-4"
+    >
+      <a
+        href={`${baseURL}/`}
+        class="toolkit-nav"
+        aria-current={currentPath === baseURL ? "page" : undefined}
+        >General Toolkit</a
+      >
+      <a
+        href={k12URL}
+        class="toolkit-nav"
+        aria-current={isK12
+          ? currentPath === k12URL
+            ? "page"
+            : "true"
+          : undefined}>K-12 Toolkit</a
+      >
+    </nav>
   </div>
 </header>

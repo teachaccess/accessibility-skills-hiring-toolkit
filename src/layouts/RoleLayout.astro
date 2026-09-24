@@ -2,9 +2,11 @@
 export interface Props {
   title: string;
   canonicalURL?: string;
+  backHref?: string;
+  backLabel?: string;
 }
 
-const { title, canonicalURL } = Astro.props;
+const { title, canonicalURL, backHref, backLabel } = Astro.props;
 
 import BaseLayout from "./BaseLayout.astro";
 import Header from "../components/Header.astro";
@@ -17,7 +19,7 @@ import Footer from "../components/Footer.astro";
   canonicalURL={canonicalURL}
 >
   <Header />
-  <Breadcrumbs />
+  <Breadcrumbs href={backHref} label={backLabel} />
 
   <main class="flex-1">
     <div class="role-content">

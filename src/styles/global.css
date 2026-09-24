@@ -8,6 +8,14 @@ footer a {
   @apply underline text-blue-100 hover:text-blue-300 focus:outline-2 -m-1 p-1 focus:outline-blue-200 hover:bg-black focus:bg-black;
 }
 
+a.toolkit-nav {
+  @apply text-white inline-flex items-center min-h-11 hover:text-white hover:bg-black focus:text-white focus:bg-black focus:outline-white;
+}
+
+a.toolkit-nav[aria-current] {
+  @apply font-bold decoration-2 underline-offset-4;
+}
+
 a.breadcrumbs {
   @apply text-gray-200 min-h-14 md:min-h-auto inline-flex items-center text-sm leading-relaxed font-bold focus:outline-2 px-3 focus:outline-black outline-offset-2 hover:bg-black focus:bg-black;
 }

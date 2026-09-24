@@ -1,0 +1,32 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import { extractRoleTitle } from "../../../utils/roleUtils";
+import RoleLayout from "../../../layouts/RoleLayout.astro";
+
+export async function getStaticPaths() {
+  const roles = await getCollection("k12Roles", ({ data }) => !data.draft);
+  return roles.map((role) => ({
+    params: { slug: role.slug },
+    props: { role },
+  }));
+}
+
+interface Props {
+  role: CollectionEntry<"k12Roles">;
+}
+
+const { role } = Astro.props;
+const { Content } = await role.render();
+const title = extractRoleTitle(role);
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
+const baseURL = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<RoleLayout
+  title={title}
+  canonicalURL={canonicalURL}
+  backHref={`${baseURL}/k-12-toolkit`}
+  backLabel="Back to K-12 Toolkit"
+>
+  <Content />
+</RoleLayout>
