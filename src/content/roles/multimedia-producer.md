@@ -62,7 +62,7 @@ Applicants with the following qualifications will be preferred:
   - What are audio descriptions? Who benefits from them and why?
 - Experience creating media content that reflects diversity and inclusion
   - How does diversity and inclusion factor into your work as a media producer?
-  - What steps do you typically take to ensure your media is inclusive? Please provide some examples of actions you’ve taken.
+  - What steps do you typically take to ensure your media is inclusive? Please provide some examples of actions you've taken.
   - What are some examples of inclusive/non-inclusive media elements?
 
 - Describe your experience with self-described video production best practices
